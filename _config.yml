@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Jahsa
-tagline:          'wip'
+title:            Jahsa Coleman
+tagline:          'some sort of web presence'
 description:      'still workin'
-url:              http://lanyon.getpoole.com
+url:              jahsa.co
 
 author:
   name:           'Jahsa Coleman'
