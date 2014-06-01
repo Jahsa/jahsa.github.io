@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Jahsa Coleman
 tagline:          'some sort of web presence'
-description:      'still work in progress'
+description:      'Follow me on <a href="http://twitter.com/smashtic" target="_blank">Twitter</a>' 
 url:              jahsa.co
 
 author:
